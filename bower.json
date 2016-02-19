@@ -1,0 +1,27 @@
+{
+  "name": "basic-angularjs-app",
+  "description": "Basic AngularJS Application",
+  "main": "",
+  "authors": [
+    "Leandro Coutinho"
+  ],
+  "license": "GPL",
+  "keywords": [
+    "angularjs",
+    "basic",
+    "tutorial",
+    "example"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
